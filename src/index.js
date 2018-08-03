@@ -1,3 +1,3 @@
-import { TransitionGroup } from './TransitionGroup';
+import { TransitionGroup } from './TransitionGroup.js';
 
 export default TransitionGroup;
